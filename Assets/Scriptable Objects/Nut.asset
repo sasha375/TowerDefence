@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1975b67b75076f041bc6cef953604714, type: 3}
+  m_Name: Nut
+  m_EditorClassIdentifier: 
+  icon: {fileID: 7928858964255100155, guid: 0d2873ce1f2ba914fa50048cb693cc82, type: 3}
+  prefab: {fileID: 5413267341522900702, guid: d5c3d07c94471754fb6d884a4e3c14b3, type: 3}
+  cost: 0
